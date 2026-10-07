@@ -27,3 +27,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sarkiklamia&background=c0c0c0&border=000000&border_radius=0&ring=800020&fire=800020&currStreakNum=000000&sideNums=000000&currStreakLabel=800020&sideLabels=800020&dates=333333" />
 </p>
+
+<p align="center">
+  <img src="dialog.svg" width="60%" alt="message" />
+</p>
+
+<img src="taskbar.svg" width="100%" alt="taskbar" />
